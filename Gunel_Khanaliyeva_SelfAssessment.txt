@@ -1,0 +1,5 @@
+As a Frontend Developer for the CVE Collector application, I was primarily responsible for designing and implementing the HTML templates for the project. This included creating and structuring the form.html and result.html pages. My focus was on ensuring a user-friendly interface and an intuitive design for both the input form and the results page.
+
+In designing the form.html, I focused on creating a clean, functional input form where users could easily enter CVE IDs. For the result.html, I structured the page to effectively display the collected data and results, ensuring clarity and accessibility.
+
+Throughout the project, I collaborated closely with my team to align the frontend design with the application's overall functionality. I learned valuable skills in HTML and CSS, improving my ability to create responsive and user-centric web pages. My contributions helped in delivering a polished and effective user experience for the CVE Collector application.

@@ -1,0 +1,7 @@
+As the Project Leader and Backend Developer for the CVE Collector application, I played a pivotal role in both the technical and managerial aspects of the project.
+
+In my capacity as a Backend Developer, I extensively utilized the Selenium and Beautiful Soup libraries. My work focused on mastering Beautiful Soup for static web scraping to extract detailed information from the NVD NIST website, including CVE descriptions, CVSS scores, vectors, and ensuring that hyperlinks were functional. For dynamic content, such as data from the Exploit-DB site, I employed Selenium, which allowed me to handle and scrape data that Beautiful Soup could not process.
+
+Additionally, I retrieved critical information from the INCIBE-CERT website, including severity and publication dates. I also integrated Flask to facilitate the web application's backend operations, ensuring smooth functionality and data processing.
+
+As the Project Leader, I coordinated with the team, overseeing development progress and facilitating effective collaboration. I also conducted rigorous testing to ensure the reliability and accuracy of the program. This role provided me with valuable experience in backend development, project management, and collaborative teamwork, significantly enhancing my technical and leadership skills.

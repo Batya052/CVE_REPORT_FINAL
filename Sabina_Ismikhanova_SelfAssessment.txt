@@ -1,0 +1,6 @@
+In our recent project, my role was focused on ensuring the accuracy and validity of CVE-IDs. I was responsible for several key tasks:
+Validating CVE-ID Format: I made sure that the CVE-ID entered by users followed the correct format (CVE-YYYY-NNNNN), which is essential for proper identification and processing.
+Year and Number Verification: I checked that the year in the CVE-ID was within a valid range (from 1999 to the present year) and ensured that the number part of the CVE-ID was at least four digits long and contained only numbers.
+Checking CVE Existence: I developed a process to confirm whether the CVE-ID actually exists in the NVD database. This was important to ensure that users were only working with valid and existing CVE-IDs.
+Status Checking: I also checked if the CVE had any special status, such as "Awaiting Analysis," "Rejected," or "Disputed." This information helps users understand the current state of the CVE.
+Through this project, I learned a lot about data validation and web scraping. I worked closely with my team to integrate these checks smoothly into our application. Effective communication and collaboration were crucial in solving problems and achieving our goals.
